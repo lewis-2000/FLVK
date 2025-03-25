@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Lewis/Dev/Graphics/FLVK/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/flvk.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\flvk.dir\\src\\main.cpp.obj -c C:\\Users\\Lewis\\Dev\\Graphics\\FLVK\\src\\main.cpp",
+  "file": "C:/Users/Lewis/Dev/Graphics/FLVK/src/main.cpp",
+  "output": "CMakeFiles/flvk.dir/src/main.cpp.obj"
+}
+]
