@@ -4,5 +4,29 @@
   "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/flvk.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\flvk.dir\\src\\main.cpp.obj -c C:\\Users\\Lewis\\Dev\\Graphics\\FLVK\\src\\main.cpp",
   "file": "C:/Users/Lewis/Dev/Graphics/FLVK/src/main.cpp",
   "output": "CMakeFiles/flvk.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lewis/Dev/Graphics/FLVK/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/flvk.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\flvk.dir\\src\\fl_window.cpp.obj -c C:\\Users\\Lewis\\Dev\\Graphics\\FLVK\\src\\fl_window.cpp",
+  "file": "C:/Users/Lewis/Dev/Graphics/FLVK/src/fl_window.cpp",
+  "output": "CMakeFiles/flvk.dir/src/fl_window.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lewis/Dev/Graphics/FLVK/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/flvk.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\flvk.dir\\src\\fl_app.cpp.obj -c C:\\Users\\Lewis\\Dev\\Graphics\\FLVK\\src\\fl_app.cpp",
+  "file": "C:/Users/Lewis/Dev/Graphics/FLVK/src/fl_app.cpp",
+  "output": "CMakeFiles/flvk.dir/src/fl_app.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lewis/Dev/Graphics/FLVK/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/flvk.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\flvk.dir\\src\\fl_pipeline.cpp.obj -c C:\\Users\\Lewis\\Dev\\Graphics\\FLVK\\src\\fl_pipeline.cpp",
+  "file": "C:/Users/Lewis/Dev/Graphics/FLVK/src/fl_pipeline.cpp",
+  "output": "CMakeFiles/flvk.dir/src/fl_pipeline.cpp.obj"
+},
+{
+  "directory": "C:/Users/Lewis/Dev/Graphics/FLVK/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/flvk.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\flvk.dir\\src\\fl_device.cpp.obj -c C:\\Users\\Lewis\\Dev\\Graphics\\FLVK\\src\\fl_device.cpp",
+  "file": "C:/Users/Lewis/Dev/Graphics/FLVK/src/fl_device.cpp",
+  "output": "CMakeFiles/flvk.dir/src/fl_device.cpp.obj"
 }
 ]

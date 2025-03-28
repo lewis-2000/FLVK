@@ -128,6 +128,102 @@ flvk/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/build
 .PHONY : flvk/fast
 
+src/fl_app.obj: src/fl_app.cpp.obj
+.PHONY : src/fl_app.obj
+
+# target to build an object file
+src/fl_app.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_app.cpp.obj
+.PHONY : src/fl_app.cpp.obj
+
+src/fl_app.i: src/fl_app.cpp.i
+.PHONY : src/fl_app.i
+
+# target to preprocess a source file
+src/fl_app.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_app.cpp.i
+.PHONY : src/fl_app.cpp.i
+
+src/fl_app.s: src/fl_app.cpp.s
+.PHONY : src/fl_app.s
+
+# target to generate assembly for a file
+src/fl_app.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_app.cpp.s
+.PHONY : src/fl_app.cpp.s
+
+src/fl_device.obj: src/fl_device.cpp.obj
+.PHONY : src/fl_device.obj
+
+# target to build an object file
+src/fl_device.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_device.cpp.obj
+.PHONY : src/fl_device.cpp.obj
+
+src/fl_device.i: src/fl_device.cpp.i
+.PHONY : src/fl_device.i
+
+# target to preprocess a source file
+src/fl_device.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_device.cpp.i
+.PHONY : src/fl_device.cpp.i
+
+src/fl_device.s: src/fl_device.cpp.s
+.PHONY : src/fl_device.s
+
+# target to generate assembly for a file
+src/fl_device.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_device.cpp.s
+.PHONY : src/fl_device.cpp.s
+
+src/fl_pipeline.obj: src/fl_pipeline.cpp.obj
+.PHONY : src/fl_pipeline.obj
+
+# target to build an object file
+src/fl_pipeline.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_pipeline.cpp.obj
+.PHONY : src/fl_pipeline.cpp.obj
+
+src/fl_pipeline.i: src/fl_pipeline.cpp.i
+.PHONY : src/fl_pipeline.i
+
+# target to preprocess a source file
+src/fl_pipeline.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_pipeline.cpp.i
+.PHONY : src/fl_pipeline.cpp.i
+
+src/fl_pipeline.s: src/fl_pipeline.cpp.s
+.PHONY : src/fl_pipeline.s
+
+# target to generate assembly for a file
+src/fl_pipeline.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_pipeline.cpp.s
+.PHONY : src/fl_pipeline.cpp.s
+
+src/fl_window.obj: src/fl_window.cpp.obj
+.PHONY : src/fl_window.obj
+
+# target to build an object file
+src/fl_window.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_window.cpp.obj
+.PHONY : src/fl_window.cpp.obj
+
+src/fl_window.i: src/fl_window.cpp.i
+.PHONY : src/fl_window.i
+
+# target to preprocess a source file
+src/fl_window.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_window.cpp.i
+.PHONY : src/fl_window.cpp.i
+
+src/fl_window.s: src/fl_window.cpp.s
+.PHONY : src/fl_window.s
+
+# target to generate assembly for a file
+src/fl_window.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\flvk.dir\build.make CMakeFiles/flvk.dir/src/fl_window.cpp.s
+.PHONY : src/fl_window.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -161,6 +257,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... flvk
+	@echo ... src/fl_app.obj
+	@echo ... src/fl_app.i
+	@echo ... src/fl_app.s
+	@echo ... src/fl_device.obj
+	@echo ... src/fl_device.i
+	@echo ... src/fl_device.s
+	@echo ... src/fl_pipeline.obj
+	@echo ... src/fl_pipeline.i
+	@echo ... src/fl_pipeline.s
+	@echo ... src/fl_window.obj
+	@echo ... src/fl_window.i
+	@echo ... src/fl_window.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

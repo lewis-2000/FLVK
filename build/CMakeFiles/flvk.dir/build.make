@@ -86,21 +86,89 @@ CMakeFiles/flvk.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flvk.dir/src/main.cpp.s"
 	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Lewis\Dev\Graphics\FLVK\src\main.cpp -o CMakeFiles\flvk.dir\src\main.cpp.s
 
+CMakeFiles/flvk.dir/src/fl_window.cpp.obj: CMakeFiles/flvk.dir/flags.make
+CMakeFiles/flvk.dir/src/fl_window.cpp.obj: CMakeFiles/flvk.dir/includes_CXX.rsp
+CMakeFiles/flvk.dir/src/fl_window.cpp.obj: C:/Users/Lewis/Dev/Graphics/FLVK/src/fl_window.cpp
+CMakeFiles/flvk.dir/src/fl_window.cpp.obj: CMakeFiles/flvk.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Lewis\Dev\Graphics\FLVK\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/flvk.dir/src/fl_window.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flvk.dir/src/fl_window.cpp.obj -MF CMakeFiles\flvk.dir\src\fl_window.cpp.obj.d -o CMakeFiles\flvk.dir\src\fl_window.cpp.obj -c C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_window.cpp
+
+CMakeFiles/flvk.dir/src/fl_window.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/flvk.dir/src/fl_window.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_window.cpp > CMakeFiles\flvk.dir\src\fl_window.cpp.i
+
+CMakeFiles/flvk.dir/src/fl_window.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flvk.dir/src/fl_window.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_window.cpp -o CMakeFiles\flvk.dir\src\fl_window.cpp.s
+
+CMakeFiles/flvk.dir/src/fl_app.cpp.obj: CMakeFiles/flvk.dir/flags.make
+CMakeFiles/flvk.dir/src/fl_app.cpp.obj: CMakeFiles/flvk.dir/includes_CXX.rsp
+CMakeFiles/flvk.dir/src/fl_app.cpp.obj: C:/Users/Lewis/Dev/Graphics/FLVK/src/fl_app.cpp
+CMakeFiles/flvk.dir/src/fl_app.cpp.obj: CMakeFiles/flvk.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Lewis\Dev\Graphics\FLVK\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/flvk.dir/src/fl_app.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flvk.dir/src/fl_app.cpp.obj -MF CMakeFiles\flvk.dir\src\fl_app.cpp.obj.d -o CMakeFiles\flvk.dir\src\fl_app.cpp.obj -c C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_app.cpp
+
+CMakeFiles/flvk.dir/src/fl_app.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/flvk.dir/src/fl_app.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_app.cpp > CMakeFiles\flvk.dir\src\fl_app.cpp.i
+
+CMakeFiles/flvk.dir/src/fl_app.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flvk.dir/src/fl_app.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_app.cpp -o CMakeFiles\flvk.dir\src\fl_app.cpp.s
+
+CMakeFiles/flvk.dir/src/fl_pipeline.cpp.obj: CMakeFiles/flvk.dir/flags.make
+CMakeFiles/flvk.dir/src/fl_pipeline.cpp.obj: CMakeFiles/flvk.dir/includes_CXX.rsp
+CMakeFiles/flvk.dir/src/fl_pipeline.cpp.obj: C:/Users/Lewis/Dev/Graphics/FLVK/src/fl_pipeline.cpp
+CMakeFiles/flvk.dir/src/fl_pipeline.cpp.obj: CMakeFiles/flvk.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Lewis\Dev\Graphics\FLVK\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/flvk.dir/src/fl_pipeline.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flvk.dir/src/fl_pipeline.cpp.obj -MF CMakeFiles\flvk.dir\src\fl_pipeline.cpp.obj.d -o CMakeFiles\flvk.dir\src\fl_pipeline.cpp.obj -c C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_pipeline.cpp
+
+CMakeFiles/flvk.dir/src/fl_pipeline.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/flvk.dir/src/fl_pipeline.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_pipeline.cpp > CMakeFiles\flvk.dir\src\fl_pipeline.cpp.i
+
+CMakeFiles/flvk.dir/src/fl_pipeline.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flvk.dir/src/fl_pipeline.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_pipeline.cpp -o CMakeFiles\flvk.dir\src\fl_pipeline.cpp.s
+
+CMakeFiles/flvk.dir/src/fl_device.cpp.obj: CMakeFiles/flvk.dir/flags.make
+CMakeFiles/flvk.dir/src/fl_device.cpp.obj: CMakeFiles/flvk.dir/includes_CXX.rsp
+CMakeFiles/flvk.dir/src/fl_device.cpp.obj: C:/Users/Lewis/Dev/Graphics/FLVK/src/fl_device.cpp
+CMakeFiles/flvk.dir/src/fl_device.cpp.obj: CMakeFiles/flvk.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\Lewis\Dev\Graphics\FLVK\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/flvk.dir/src/fl_device.cpp.obj"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/flvk.dir/src/fl_device.cpp.obj -MF CMakeFiles\flvk.dir\src\fl_device.cpp.obj.d -o CMakeFiles\flvk.dir\src\fl_device.cpp.obj -c C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_device.cpp
+
+CMakeFiles/flvk.dir/src/fl_device.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/flvk.dir/src/fl_device.cpp.i"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_device.cpp > CMakeFiles\flvk.dir\src\fl_device.cpp.i
+
+CMakeFiles/flvk.dir/src/fl_device.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/flvk.dir/src/fl_device.cpp.s"
+	C:\msys64\ucrt64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Lewis\Dev\Graphics\FLVK\src\fl_device.cpp -o CMakeFiles\flvk.dir\src\fl_device.cpp.s
+
 # Object files for target flvk
 flvk_OBJECTS = \
-"CMakeFiles/flvk.dir/src/main.cpp.obj"
+"CMakeFiles/flvk.dir/src/main.cpp.obj" \
+"CMakeFiles/flvk.dir/src/fl_window.cpp.obj" \
+"CMakeFiles/flvk.dir/src/fl_app.cpp.obj" \
+"CMakeFiles/flvk.dir/src/fl_pipeline.cpp.obj" \
+"CMakeFiles/flvk.dir/src/fl_device.cpp.obj"
 
 # External object files for target flvk
 flvk_EXTERNAL_OBJECTS =
 
 flvk.exe: CMakeFiles/flvk.dir/src/main.cpp.obj
+flvk.exe: CMakeFiles/flvk.dir/src/fl_window.cpp.obj
+flvk.exe: CMakeFiles/flvk.dir/src/fl_app.cpp.obj
+flvk.exe: CMakeFiles/flvk.dir/src/fl_pipeline.cpp.obj
+flvk.exe: CMakeFiles/flvk.dir/src/fl_device.cpp.obj
 flvk.exe: CMakeFiles/flvk.dir/build.make
 flvk.exe: C:/Users/Lewis/Dev/Graphics/FLVK/Lib/glfw3.lib
 flvk.exe: C:/VulkanSDK/1.4.304.1/Lib/vulkan-1.lib
 flvk.exe: CMakeFiles/flvk.dir/linkLibs.rsp
 flvk.exe: CMakeFiles/flvk.dir/objects1.rsp
 flvk.exe: CMakeFiles/flvk.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Lewis\Dev\Graphics\FLVK\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable flvk.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\Lewis\Dev\Graphics\FLVK\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable flvk.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\flvk.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
